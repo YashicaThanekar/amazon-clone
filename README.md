@@ -1,4 +1,4 @@
-                                               🌟 Amazon Clone
+                                                  🌟 Amazon Clone
 
 This project is a **static Amazon clone webpage** built using **pure HTML and CSS** to demonstrate my front-end web development skills.  
 It focuses on layout structuring, styling precision, and responsive design principles — all crafted without using any external frameworks.
@@ -14,7 +14,7 @@ It focuses on layout structuring, styling precision, and responsive design princ
 
 ---
 
-**Features**
+**Features**<br>
 -->Fully structured navigation bar with logo, search, and cart icons  
 -->Custom-styled product boxes and hover effects  
 -->Smooth transitions and box shadows  

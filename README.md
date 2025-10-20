@@ -3,7 +3,7 @@
 This project is a **static Amazon clone webpage** built using **pure HTML and CSS** to demonstrate my front-end web development skills.  
 It focuses on layout structuring, styling precision, and responsive design principles — all crafted without using any external frameworks.
 
-
+---
 
 **About the Project**
 --The aim of this project is to recreate the **look and feel of Amazon’s homepage** while showcasing:
@@ -12,16 +12,16 @@ It focuses on layout structuring, styling precision, and responsive design princ
 --> Attention to spacing, alignment, and hover animations  
 --> Consistent color scheme and layout inspired by Amazon UI  
 
-
+---
 
 **Features**
---->Fully structured navigation bar with logo, search, and cart icons  
+-->Fully structured navigation bar with logo, search, and cart icons  
 -->Custom-styled product boxes and hover effects  
 -->Smooth transitions and box shadows  
 -->Organized sections (Deals, Electronics, Fashion, etc.)  
 -->Responsive foundation ready for mobile view  
 
-
+---
 
 **Technologies Used**
 - **HTML5** for structure  
@@ -30,7 +30,7 @@ It focuses on layout structuring, styling precision, and responsive design princ
 - **Font Awesome** for icons  
 - **Cloudinary** for hosted images  
 
-
+---
 
 **What This Project Shows**
 This project highlights my ability to:
@@ -39,11 +39,12 @@ This project highlights my ability to:
 - Understand UI/UX elements like hover states and spacing  
 - Work with assets, icons, and layout grids effectively  
 
+---
 
 **Live Preview**
 [Amazon Clone Preview](https://yashicathanekar.github.io/amazon-clone/)
 
-
+---
 
 👩‍💻 Author
 **Yashica Thanekar**  

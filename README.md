@@ -6,7 +6,7 @@ It focuses on layout structuring, styling precision, and responsive design princ
 
 
 **About the Project**
-The aim of this project is to recreate the **look and feel of Amazon’s homepage** while showcasing:
+-The aim of this project is to recreate the **look and feel of Amazon’s homepage** while showcasing:
 --> Clean and semantic HTML structure  
 -->Organized and reusable CSS  
 --> Attention to spacing, alignment, and hover animations  

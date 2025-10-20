@@ -42,7 +42,7 @@ This project highlights my ability to:
 ---
 
 **Live Preview**
-[Amazon Clone Preview](https://yashicathanekar.github.io/amazon-clone/)
+[~Amazon Clone Preview~](https://yashicathanekar.github.io/amazon-clone/)
 
 ---
 
